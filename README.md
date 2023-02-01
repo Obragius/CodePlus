@@ -4,11 +4,17 @@ Python RoadMap
 
 Stage 1
 
-- Syntax ; Variable ; Language specifics
 
-- Idea of expressions (Something evalueates to x, treat it as x)
 
-- If, else conditions ; Comparisons
+- Syntax ; Variable ; Language specifics [Planned for 01.02.2023]
+
+  -- Code Minute (Use of different datatypes)
+
+- Idea of expressions (Something evalueates to x, treat it as x) [Planned for 08.02.2023]
+
+  -- Code Minute (Use of expressions)
+
+- If, else conditions ; Comparisons [Planned for 22.02.2023]
 
 - For, while and do while loops
 
@@ -21,4 +27,6 @@ Stage 2
 - Functions ; Parameters, return statements
 
 - Tic Tac Toe
+
+Stage 3
 
